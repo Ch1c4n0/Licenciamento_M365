@@ -1,0 +1,21 @@
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+
+# Arquivos de configuração local
+config.local.*
+
+# Diretórios de cache
+cache/
+.cache/
